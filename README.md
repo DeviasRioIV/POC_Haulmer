@@ -12,7 +12,7 @@ Para cada uno de estos se creo un archivo para poder
 aprender y estudiar los diferentes resultados que retornan los mismos. 
 
 Todos estos archivos generados se pueden ejecutar individualmente 
-siguiendo las siguientes instrucciones.
+con las siguientes instrucciones:
 
 ## Instrucciones para ejecución de cada prueba
 
