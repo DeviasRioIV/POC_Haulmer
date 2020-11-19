@@ -1,5 +1,3 @@
-# POC_Haulmer
-
 ## POC (Proof of concept) de Openfactura - API Haulmer en Ruby
 
 En este POC se estudian dos endpoints de interes ofrecido por la 
